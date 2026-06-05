@@ -10,7 +10,7 @@
 ![vPC](https://img.shields.io/badge/HA-vPC_Active%2FActive-FF8300?style=for-the-badge&logo=cisco&logoColor=white)
 ![HSRP](https://img.shields.io/badge/Gateway-HSRP_v2-0F6E56?style=for-the-badge)
 
-**Author:** Anurag Mishra — Technology Specialist | Solution Architect - IT & Security  
+**Author:** Anurag Mishra — Solution Architect - IT & Security  
 📍 Hyderabad, India | [LinkedIn](https://www.linkedin.com/in/anuragmishra6) | [GitHub](https://github.com/anuragmlocaladdress)
 
 ---
