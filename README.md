@@ -528,7 +528,7 @@ vPC keepalive detects failure → secondary does not isolate
 
 ---
 
-**Anurag Mishra** — Technology Specialist | Network Implementation Engineer  
+**Anurag Mishra** — Solution Architect IT & Security 
 📍 Hyderabad, India
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anuragmishra6)
